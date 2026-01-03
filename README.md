@@ -1,9 +1,13 @@
-<div align="left">
-  <img src="logo.png" alt="Veil Logo" width="120" style="border-radius: 5px; display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom:10px">
-  <h1 style="display: inline-block; vertical-align: middle; margin: 0;">veil<sub style="font-weight: normal;"> alpha ver.</sub></h1>
-
-</div>
-
+<table>
+<tr>
+<td>
+<img src="logo.png" alt="Veil Logo" width="120" style="border-radius: 5px;">
+</td>
+<td>
+<h1>veil<sub>-alpha</sub></h1>
+</td>
+</tr>
+</table>
 
 **WARNING:** This is a pre-training repo. Incomplete, probably broken, might get thrown away.
 
