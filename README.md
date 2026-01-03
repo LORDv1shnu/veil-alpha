@@ -1,10 +1,10 @@
-<table>
+<table border="0">
 <tr>
-<td>
+<td style="border: none;">
 <img src="logo.png" alt="Veil Logo" width="120" style="border-radius: 5px;">
 </td>
-<td>
-<h1>veil<sub>-alpha</sub></h1>
+<td style="border: none;">
+<h1>veil<sub> alpha</sub></h1>
 </td>
 </tr>
 </table>
