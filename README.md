@@ -9,11 +9,13 @@
 </tr>
 </table>
 
-**WARNING:** This is a pre-training repo. Incomplete, probably broken, might get thrown away.
-
-I'm using this to learn the prerequisites before building the real project: **Veil**.
+**REMINDER:** This is a pre-training repo. I'm using this to learn the prerequisites before building the real project: **Veil**.
 
 ---
+
+
+Current Tasks: Install linux (Done)
+Next Task: Start Rust
 
 ## What Is Veil?
 
