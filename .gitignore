@@ -1,0 +1,91 @@
+# Rust/Cargo generated files
+**/target/
+**/*.rs.bk
+**/*.pdb
+
+# Cargo.lock - uncomment if building a library
+# Cargo.lock should be committed for binaries but ignored for libraries
+# Cargo.lock
+
+# Build artifacts
+**/debug/
+**/release/
+**/deps/
+**/*.d
+**/*.rlib
+**/*.rmeta
+**/*.so
+**/*.dylib
+**/*.dll
+
+# Incremental compilation
+**/incremental/
+
+# CACHEDIR.TAG
+**/CACHEDIR.TAG
+
+# Flycheck (Emacs)
+**/flycheck*/
+
+# IDE/Editor specific files
+# VSCode
+.vscode/
+*.code-workspace
+
+# IntelliJ/CLion
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# OS specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.tmp
+*.temp
+
+# Test and benchmark results
+*.prof
+*.test
+
+# Documentation build artifacts
+**/doc/
+**/book/
